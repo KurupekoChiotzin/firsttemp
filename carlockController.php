@@ -15,6 +15,8 @@ use Session;
 
 class carlockController extends Controller
 {
+	//我哪隻阿
+	//我哪隻阿
     public function register(Request $request)
     {
         $account=$request->input('account');

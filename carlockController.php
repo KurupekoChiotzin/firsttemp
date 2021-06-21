@@ -1,5 +1,5 @@
 <?php
-
+echo 1;
 
 namespace App\Http\Controllers;
 
